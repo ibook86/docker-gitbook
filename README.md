@@ -1,3 +1,5 @@
 # docker-gitbook
 
-## test
+```shell
+docker pull ghcr.io/ibook86/docker-gitbook:main
+```
